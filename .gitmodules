@@ -1,0 +1,6 @@
+[submodule "simple_blog_app"]
+	path = simple_blog_app
+	url = https://github.com/OndrejBelza/simple_blog_app.git
+[submodule "simple_blog_api"]
+	path = simple_blog_api
+	url = https://github.com/OndrejBelza/simple_blog_api
